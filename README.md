@@ -1,1 +1,1 @@
-# data_on_cloud
+# Repositório para o projeto de aprendizagem de máquina.
