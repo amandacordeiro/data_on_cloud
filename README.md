@@ -1,1 +1,1 @@
-# Repositório para o projeto de aprendizagem de máquina.
+# Repositório para o projeto de machine learning da PUCMG.
