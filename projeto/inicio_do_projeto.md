@@ -24,17 +24,9 @@ A volatilidade, muitas vezes vista como uma fonte de risco, pode paradoxalmente 
 
 
 
-Temos um contexto desafiador de avaliar entre três bases de dados, na busca pelo  conjunto mais preciso e relevante, para extrair em tempo real as flutuações do  mercado financeiro. 
+Temos um contexto desafiador de avaliar as ações (Sqia3, Lwsa3, Tots3, Mlsa3, Ngrd3, Enju3, Viia3, Mglu3, Hapv3, Ciel3, Abv3, Wege3, Mrve3) que terão os dados de flutuações de 13/09/2018 à 13/09/2023 extraidos do site google finance por meio de função nativa do google sheets
 
-São elas:  
-
-• https://developer.xpinc.com/catalog 
-
-• https://www.fundamentus.com.br/cotacoes.php 
-
-• https://www.dio.me/articles/consumindo-uma-api-de-cotacao-de-ativos-dabolsa-de-valores 
-
-
+• https://www.google.com/finance/?hl=en
 
 Neste cenario, a escolha da base de dados certa é uma ação desafiadora, mas crucial,  pois cada fonte apresenta diversas informações valiosas. A convergências das múltiplas  fontes de dados pode gerar insights mais ricos e uma visão mais holística das tendências emergentes no mercado. 
 
@@ -52,4 +44,4 @@ O objetivo não é alcançar uma previsão perfeita, mas sim tomar decisões  in
 
 
 
-Referências bibliográficas: De PAULA, T. & CROCCO, M. (2014). “Flutuações cíclicas e seus efeitos no território:  uma nota sobre a preferência pela liquidez regional”. Anais do 20th APDR Congress.  Évora, Portugal, 2014. [1] Mobile Time. (2023). Bloomberg apresenta sua IA generativa financeira:  BloombergGPT. Disponível  em: https://www.mobiletime.com.br/noticias/03/04/2023/bloomberg-apresenta-suaia-generativa-financeira-bloomberggpt/ HADDAD, P. R. (1989). “Economia regional: teorias e métodos de análise”. Série Estudos  Econômicos e Sociais, Vol. 36. Ed. Banco, do Nordeste. 11 IBGE (2019). PIB avança 1,0%  em 2017 e fecha ano em R$ 6,6 trilhões. Agência de Notícias. Disponível em:  https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-denoticias/releases/20166-pib-avanca-1- 0-em-2017-e-fecha-ano-em-r-6-6-trilhoes. [2] Arxiv.org. (2023). BloombergGPT: A Generative Finance Model for Large-Scale Data  Analysis and Forecasting. Disponível em: https://arxiv.org/pdf/2303.17564.pdf
+Referências bibliográficas: De PAULA, T. & CROCCO, M. (2014). “Flutuações cíclicas e seus efeitos no território:  uma nota sobre a preferência pela liquidez regional”. Anais do 20th APDR Congress.  Évora, Portugal, 2014. [1] Mobile Time. (2023). Bloomberg apresenta sua IA generativa financeira:  BloombergGPT. Disponível  em: https://www.mobiletime.com.br/noticias/03/04/2023/bloomberg-apresenta-suaia-generativa-financeira-bloomberggpt/ HADDAD, P. R. (1989). “Economia regional: teorias e métodos de análise”. Série Estudos  Econômicos e Sociais, Vol. 36. Ed. Banco, do Nordeste. 11 IBGE (2019). PIB avança 1,0%  em 2017 e fecha ano em R$ 6,6 trilhões. Agência de Notícias. Disponível em:  https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-denoticias/releases/20166-pib-avanca-1- 0-em-2017-e-fecha-ano-em-r-6-6-trilhoes. [2] Arxiv.org. (2023). BloombergGPT: A Generative Finance Model for Large-Scale Data  Analysis and Forecasting./ Disponível em: https://arxiv.org/pdf/2303.17564.pdf
