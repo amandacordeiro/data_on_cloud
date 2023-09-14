@@ -75,7 +75,7 @@ O armazenamento final e as operaçoes de dados ocorreram utilizando SQL.
 
 ### Segurança de dados
 
-Os dados coletados são públicos e disponíbilizados pela google, não sendo necessários tomar cuidados extras para estar dentro da LGPD ou GDPN. Em relação ao repositorio dos dados elae estará em nuvem com acesso restrito para as pessoas integrantes do projeto.
+Os dados coletados são públicos e disponíbilizados pela google, não sendo necessários tomar cuidados extras para estar dentro da LGPD ou GDPN. Em relação ao repositorio dos dados ele estará em nuvem com acesso restrito para as pessoas integrantes do projeto.
 
 ### As demais áreas funcinais de gerenciamnto do DAMA-DMboK já estão sendo contemplandas nas áreas já citadas dentro do escopo do desse projeto.
 
