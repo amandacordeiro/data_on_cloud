@@ -14,7 +14,7 @@ Frederico Esteves Martins, Jennyfer Oliveira da Silva
 
 
 
-Introdução 
+### Introdução 
 
 No mundo complexo e interconectado das finanças, a capacidade de prever e  identificar tendências no mercado financeiro desempenha um papel crucial para as  empresas que desejam tomar decisões de investimentos seguras e bem informadas. No  entanto, quando nos deparamos com um cenário de pouca flutuação, a tarefa de  antecipar os movimentos futuros assume uma nova dimensão de desafios. 
 
