@@ -1,7 +1,7 @@
 ### Coleta de Dados
 
 
-Nesta etapa vamos aplicar o Framework Data Management Body of Knowledge (DAMA - DMBoK) para desenvolvermos a governaça dos dados, a estrutura do DAMA-DMBoK é definida em 11 áreas funcionais de gerenciamento (Governança de Dados, Arquitetura de dados, Modelagem de dados e Design, Armazenamento e operações de dados, Segurança de dados, Integração de dados, Documentação, Dados Mestres, DW e BI, Metadados e qualidade dos dados) importante ressaltar que a governança dos dados fica no centro de todas as áreas citadas.
+Nesta etapa vamos aplicar o Framework Data Management Body of Knowledge (DAMA - DMBoK) para desenvolvermos a governaça dos dados, a estrutura do DAMA-DMBoK é definida em 11 áreas funcionais de gerenciamento (Governança de Dados, Arquitetura de dados, Modelagem de dados e Design, Armazenamento e operações de dados, Segurança de dados, Integração de dados, Documentação, Dados Mestres, DW e BI, Metadados e qualidade dos dados), importante ressaltar que a governança dos dados fica no centro de todas as áreas citadas.
 
 
 
@@ -31,13 +31,15 @@ O armazenamento final e as operaçoes de dados ocorrerão utilizando SQL.
 
 Os dados coletados são públicos e disponíbilizados pela google, não sendo necessários tomar cuidados extras para estar dentro da LGPD ou GDPN. Em relação ao repositorio dos dados ele estará em nuvem com acesso restrito para as pessoas integrantes do projeto.
 
-### As demais áreas funcinais de gerenciamnto do DAMA-DMboK já estão sendo contemplandas nas áreas já citadas dentro do escopo do desse projeto.
+#### As demais áreas funcinais de gerenciamnto do DAMA-DMboK já estão sendo contemplandas nas áreas já citadas dentro do escopo do desse projeto.
 
 ### Coleta
 
-Os dados financeiros serão coletados na página do google sheets utilizando o seguinte código de referência: GOOGLEFINANCE(ticker; [attribute]; [start_date]; [end_date|num_days]; [interval]) 
-Código utilizado para extração de dados de uma empresa: =GOOGLEFINANCE("SQIA3";"all";"13/09/2018";"13/09/2023";"DAILY")
-Após retornar os dados basta clicar em Arquivo - Fazer Download - Valores separados por vírgula(.CSV), dessa maneira é possível extrair os dados brutos para posterior processo de ingestão dos dados em nuvem.
+Os dados financeiros serão coletados na página do google sheets utilizando o seguinte código de referência: `GOOGLEFINANCE(ticker; [attribute]; [start_date]; [end_date|num_days]; [interval])` 
+
+Código utilizado para extração de dados de uma empresa: `=GOOGLEFINANCE("SQIA3";"all";"13/09/2018";"13/09/2023";"DAILY")`
+
+Após retornar os dados basta clicar em `Arquivo` - `Fazer Download` - `Valores separados por vírgula(.CSV)`, dessa maneira é possível extrair os dados brutos para posterior processo de ingestão dos dados em nuvem.
 ![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/02bbb77d-8a5b-47d5-8122-6815e8098e0a)
 
 
