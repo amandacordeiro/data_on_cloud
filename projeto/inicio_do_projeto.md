@@ -70,7 +70,7 @@ A modelagem de dados será Star Schema
 
 ### Armazenamento e operações de dados
 
-O armazenamento final e as operaçoes de dados ocorreram utilizando SQL.
+O armazenamento final e as operaçoes de dados ocorrerão utilizando SQL.
 
 
 ### Segurança de dados
