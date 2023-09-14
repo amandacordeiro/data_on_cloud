@@ -43,4 +43,13 @@ Portanto, o objetivo de prever as flutuações do mercado  financeiro deve ser a
 O objetivo não é alcançar uma previsão perfeita, mas sim tomar decisões  informadas que considerem tanto os contextos dos dados, quanto a inevitável imprevisibilidade do cenario econômico atual. 
 
 
+
+
+
+
+
+
+
+
+
 Referências bibliográficas: De PAULA, T. & CROCCO, M. (2014). “Flutuações cíclicas e seus efeitos no território: uma nota sobre a preferência pela liquidez regional”. Anais do 20th APDR Congress. Évora, Portugal, 2014. [1] Mobile Time. (2023). Bloomberg apresenta sua IA generativa financeira: BloombergGPT. Disponível em: https://www.mobiletime.com.br/noticias/03/04/2023/bloomberg-apresenta-suaia-generativa-financeira-bloomberggpt/ HADDAD, P. R. (1989). “Economia regional: teorias e métodos de análise”. Série Estudos Econômicos e Sociais, Vol. 36. Ed. Banco, do Nordeste. 11 IBGE (2019). PIB avança 1,0% em 2017 e fecha ano em R$ 6,6 trilhões. Agência de Notícias. Disponível em: https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-denoticias/releases/20166-pib-avanca-1- 0-em-2017-e-fecha-ano-em-r-6-6-trilhoes. [2] Arxiv.org. (2023). BloombergGPT: A Generative Finance Model for Large-Scale Data Analysis and Forecasting./ Disponível em: https://arxiv.org/pdf/2303.17564.pdf
