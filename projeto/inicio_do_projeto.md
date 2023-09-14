@@ -47,11 +47,46 @@ O objetivo não é alcançar uma previsão perfeita, mas sim tomar decisões  in
 ### Coleta de Dados
 
 
-Nesta etapa vamos aplicar o Framework Data Management Body of Knowledge (DAMA - DMBoK) para desenvolvermos a governaça dos dados, a estrutura do DAMA-DMBoK é definida em 11 áreas funcionais de gerenciamento (Governaça de Dados, Arquitetura de dados, Modelagem de dados e Design, Armazenamento e operações de dados, Segurança de dados, Integração de dados, Documentação, Dados Mestres, DW e BI, Metadados e qualidade dos dados) importante ressaltar que a governança dos dados fica no centro de todas as áreas citadas.
+Nesta etapa vamos aplicar o Framework Data Management Body of Knowledge (DAMA - DMBoK) para desenvolvermos a governaça dos dados, a estrutura do DAMA-DMBoK é definida em 11 áreas funcionais de gerenciamento (Governança de Dados, Arquitetura de dados, Modelagem de dados e Design, Armazenamento e operações de dados, Segurança de dados, Integração de dados, Documentação, Dados Mestres, DW e BI, Metadados e qualidade dos dados) importante ressaltar que a governança dos dados fica no centro de todas as áreas citadas.
 
 
-DADO Bruto;    Ingestão                 Armazenamento        Processamento e DW
-Arquivo RAW - GCP(Cloud Data Fusion) - GCP(Cloud Storage) - GCP(BigQuery)  (Pronto para consumo)
+
+
+
+
+### Arquitetura de dados - Data Lake GCP
+
+![_Diagrama GCP (Google Cloud Platform)](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/00ae8f89-e9f6-4923-9fb5-b16b611a3be2)
+
+
+
+### Modelagem de dados e Design
+
+
+A modelagem de dados será Star Schema
+
+![Database ER diagram (crow's foot)](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/95100e5a-5192-41dd-bded-cf04765a6d4d)
+
+
+### Armazenamento e operações de dados
+
+O armazenamento final e as operaçoes de dados ocorreram utilizando SQL.
+
+
+### Segurança de dados
+
+Os dados coletados são públicos e disponíbilizados pela google, não sendo necessários tomar cuidados extras para estar dentro da LGPD ou GDPN. Em relação ao repositorio dos dados elae estará em nuvem com acesso restrito para as pessoas integrantes do projeto.
+
+### As demais áreas funcinais de gerenciamnto do DAMA-DMboK já estão sendo contemplandas nas áreas já citadas dentro do escopo do desse projeto.
+
+
+
+
+
+
+
+
+
 
 
 
