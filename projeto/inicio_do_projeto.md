@@ -24,7 +24,7 @@ A volatilidade, muitas vezes vista como uma fonte de risco, pode paradoxalmente 
 
 
 
-Temos um contexto desafiador de avaliar as ações (Sqia3, Lwsa3, Tots3, Mlsa3, Ngrd3, Enju3, Viia3, Mglu3, Hapv3, Ciel3, Abv3, Wege3, Mrve3) que terão os dados de flutuações de 13/09/2018 à 13/09/2023 extraidos do site google finance por meio de função nativa do google sheets
+Temos um contexto desafiador de avaliar as ações (Sqia3, Lwsa3, Tots3, Ngrd3, Enju3, Viia3, Mglu3, Hapv3, Ciel3, Wege3, Mrve3) que terão os dados de flutuações de 13/09/2018 à 13/09/2023 extraidos do site google finance por meio de função nativa do google sheets
 
 • https://www.google.com/finance/?hl=en
 
