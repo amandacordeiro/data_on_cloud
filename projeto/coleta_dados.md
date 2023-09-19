@@ -44,6 +44,70 @@ Após retornar os dados basta clicar em `Arquivo` - `Fazer Download` - `Valores 
 
 
 
+### Configuração a Cloud Storage do GCP para criar nosso Data Lake
+
+Crie uma conta GCP utilizando seu e-mail gratuito, a google libera 90 dias e 300 dolares para teste:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/4425d975-a633-4a60-94e9-5f99a150fc7d)
+
+Na barra de pesquisa digite Cloud Storage e clique no serviço:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/2b67d926-6ca9-463b-9620-758c970df380)
+
+Configurando um Bucket, os "Buckets são os recipientes básicos que armazenam seus dados. Tudo o que você armazena no Cloud Storage precisa estar contido em um bucket", clique em criar:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/9c162f69-f2fb-4ed1-81b6-39b6fce2076c)
+
+Digite o nome do projeto e em continuar:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/a82d532e-84be-46b1-89a0-0f8d20917256)
+
+Escolha o local de armazenamento da Cloud, no nosso caso foi escolhido a região us-central1 (iowa) devido ao seu custo baixo:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/c1afc86c-8741-4a53-a66e-354fa558464e)
+
+Escolha uma classe de armazenamento, foi selecionado o standard devido ao baixo volume de dados:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/4a58ce8d-bb60-43be-ab5d-919fabddd2c7)
+
+Controle de acesso foi escolhido o uniforme, pois nossos dados são públicos e não necessitam de cuidados maiores no controle de acesso:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/e2950469-68a0-4e81-a926-984489b24ec6)
+
+Selecione o tipo de proteção (Ferramenta e Criptogradia), optamos por não selecionar nehuma ferramenta e utilizar a chave de criptogfrafia padrão google:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/c3153385-3466-48b7-85ee-4c7b1434ee2f)
+
+Pronto bucket do Cloud Storage configurado, agora basta clicar em permisões e adicinar perfis para acesso ao seu Data Lake GCP(Cloud Storage):
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/b5811a68-11cd-4203-b3cd-1e982042ceeb)
+
+Inserindo arquivos da máquina local no Data Lake, clique em fazer upload dos arquivos:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/885293b2-3fab-4fc2-8d99-f0f230214376)
+
+Selecione o arquivo e clique em abrir:
+
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/d4e6982f-8c2c-49a6-a9fa-472d4b0cc2d5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
