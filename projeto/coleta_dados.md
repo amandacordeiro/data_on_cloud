@@ -84,7 +84,8 @@ Pronto bucket do Cloud Storage configurado, agora basta clicar em permisões e a
 
 Inserindo arquivos da máquina local no Data Lake, clique em fazer upload dos arquivos:
 
-![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/885293b2-3fab-4fc2-8d99-f0f230214376)
+![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/4e2f7d9d-1a78-4b58-860a-5beb16b97a47)
+
 
 Selecione o arquivo e clique em abrir:
 
