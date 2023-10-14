@@ -8,17 +8,17 @@ Após a coleta devemos realizar um estudo desses dados. Conhecendo melhor os dad
 
 Vá para o ambiente do BigQuery no console e selecione o projeto. Após isso, clique nos três pontos ao lado do ID do seu projeto e clique em "Criar conjunto de dados"
 
-![e1](C:\Users\Amanda\Downloads\drive-download-20231014T155744Z-001\Screenshot_2.png)
+![e1](https://i.imgur.com/kTaKbbq.png)
 
 Dê um nome ao seu conjunto de dados. Selecione a mesma região em que os dados estão armazenados no Cloud Storage, deixe o restante da configuração no formato padrão e clique em "Criar conjunto de dados".
 
-![e2](C:\Users\Amanda\Downloads\drive-download-20231014T155744Z-001\Screenshot_3.png)
+![e2](https://i.imgur.com/AoJMQGL.png)
 
 Feito isso, você verá que o conjunto de dados foi criado dentro da pasta do seu projeto. Agora, vamos criar a tabela.
 
 Selecione os três pontos ao lado do conjunto de dados que você criou e clique em "Criar tabela".
 
-![e3](C:\Users\Amanda\Downloads\drive-download-20231014T155744Z-001\Screenshot_4.png)
+![e3](https://i.imgur.com/4LMZNVn.png)
 
 Preencha as informações corretamente.
 
@@ -40,13 +40,13 @@ Deixe o restante das configurações como padrão e clique em "Criar tabela".
 >   your_project.your_dataset.existing_table;
 > ```
 
-![e3](C:\Users\Amanda\Downloads\drive-download-20231014T155744Z-001\Screenshot_6.png)
+![e3](https://i.imgur.com/TgJUZaL.png)
 
 Você tem uma tabela criada.
 
-![e333](C:\Users\Amanda\Downloads\drive-download-20231014T155744Z-001\Screenshot_7.png)
+![e333](https://i.imgur.com/xTbrCdY.png)
 
-![e33](C:\Users\Amanda\Downloads\drive-download-20231014T155744Z-001\Screenshot_8.png)
+![e33](https://i.imgur.com/RHzYb6B.png)
 
 A partir da tabela que foi criada, criaremos uma nova tabela que terá o objetivo de extrair unicamente a data, dia, mês, ano, semestre, trimestre e bimestre.
 
@@ -83,13 +83,13 @@ FROM
  our-vigil-399400.finance_view.finance_info;
 ```
 
-![e4](C:\Users\Amanda\Documents\Lightshot\Screenshot_10.png)
+![e4](https://i.imgur.com/kjC3aj7.png)
 
-Após ser criado deverá ser exibido da seguinte forma:
+Após criado deverá ser exibido da seguinte forma:
 
-![e44](C:\Users\Amanda\Documents\Lightshot\Screenshot_11.png)
+![e44](https://i.imgur.com/YKPOq2Q.png)
 
-![e444](C:\Users\Amanda\Documents\Lightshot\Screenshot_12.png)
+![e444](https://i.imgur.com/Zfjk0Vu.png)
 
 Caso tenha tido algum problema durante a execução dos scripts, utilize o comando para deletar a tabela e criar novamente:
 
