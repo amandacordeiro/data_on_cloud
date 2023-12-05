@@ -1,0 +1,3 @@
+### Aprendizagem de máquina
+
+Foi escolhido o algoritmo de regressão linear em aprendizado de máquina (ML) devido à sua aplicação justificada em dados da bolsa de valores. A necessidade de empregar uma abordagem simples e interpretável no processo de ML motivou essa escolha. A regressão linear é apropriada para modelar relações lineares entre variáveis, o que pode ser relevante em finanças, dado que padrões lineares podem surgir nesse contexto. A simplicidade inerente a esse modelo facilita a interpretação dos resultados, possibilitando que a equipe analise e compare diferentes experimentos de maneira mais clara. Esse enfoque busca identificar a abordagem mais eficaz para o problema em questão.
